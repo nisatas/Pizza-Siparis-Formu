@@ -1,9 +1,12 @@
 # Pizza Sipariş Formu - Tasarımdan Koda I
 
 
+![anasayfa](https://github.com/user-attachments/assets/f476680d-86ee-44aa-b724-793fa47490f3)
+![2 sayyfaı](https://github.com/user-attachments/assets/5eb21835-fed4-44ba-8812-988654f51dc5)
+
+![sonı](https://github.com/user-attachments/assets/fb980bd4-dd7e-4060-826a-562f0ec9f405)
 
 **Amaç:**
-
 - Verilen Figma tasarımına birebir uyan, mobil ve desktop uyumlu statik bir HTML yapısı oluşturmak.
 - CSS kullanarak formu ve sayfayı şekillendirmek.
 - JavaScript kullanmadan temel bir form yapısı oluşturmak.
