@@ -1,6 +1,6 @@
 # Pizza Sipariş Formu - Tasarımdan Koda I
 
-[07.09.2025 21_27_39 - Screen - Adsız video.webm](https://github.com/user-attachments/assets/173e1c6c-b298-499b-bbb7-20009807e5ad)
+
 
 **Amaç:**
 
